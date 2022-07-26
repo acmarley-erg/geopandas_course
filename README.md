@@ -6,4 +6,4 @@ Repository for assignments completed in the Udemy course [Spatial Analysis and G
 - **assignment_1:** Basic geopandas
 - **assignment_2:** Spatial operations
 - **assignment_3:** Geospatial visualization
-- **assignment_4:** Interative visualization using Folium, Leaflt, and Plotly
+- **assignment_4:** Interative visualization using Folium, Leaflet, and Plotly
